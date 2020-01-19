@@ -5,7 +5,6 @@ Download Dataset from here https://www.kaggle.com/paultimothymooney/breast-histo
 
 We are using CNN to classify between cancerous cells and non-cancerous cells.
 
-![](cnn_architecture_karan.png)
 ![](accu_graph.png)
 ![](loss_graph.png)
 ![](cm.png)
